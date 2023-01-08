@@ -69,7 +69,7 @@ export namespace styles {
     text: {
       color: '#ffffff',
       textAlign: 'right',
-      fontSize: 50,
+      fontSize: 80,
     }
   });
 }
